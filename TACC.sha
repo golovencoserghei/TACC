@@ -278,13 +278,13 @@ BEGIN_SDK
     }
   END_SDK
 END_SDK
-Add(Button,5509777,252,217)
+Add(Button,5509777,245,231)
 {
  Left=15
  Top=65
  Width=125
  Caption="Реализация"
- link(onClick,15654531:doWork1,[])
+ link(onClick,15654531:doWork1,[(299,237)(299,223)])
 }
 Add(ChildForm,15654531,322,217)
 {
